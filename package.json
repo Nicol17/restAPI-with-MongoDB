@@ -1,0 +1,23 @@
+{
+  "name": "restapi-with-mongodb",
+  "version": "1.0.0",
+  "description": "litle project for learning mongo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicol17/restAPI-with-MongoDB.git"
+  },
+  "author": "Nicol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicol17/restAPI-with-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Nicol17/restAPI-with-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.11"
+  }
+}
